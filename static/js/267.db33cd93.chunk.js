@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonza_test=self.webpackChunkmonza_test||[]).push([[267],{6267:function(e,t,s){e.exports=s.p+"static/media/rx350fsport.105f6a2843d3e7499bee.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonza_test=self.webpackChunkmonza_test||[]).push([[556],{556:function(t,e,a){t.exports=a.p+"static/media/tiguan.2d07a0627afe0504005c.png"}}]);

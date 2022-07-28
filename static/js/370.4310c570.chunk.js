@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonza_test=self.webpackChunkmonza_test||[]).push([[370],{8964:function(e,t,s){e.exports=s.p+"static/media/highlanderxle.25417fcfeb10c1db7546.png"}}]);

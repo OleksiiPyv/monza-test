@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonza_test=self.webpackChunkmonza_test||[]).push([[338],{8338:function(e,t,s){e.exports=s.p+"static/media/elantra.8e648f7d8c2e4353bf65.png"}}]);

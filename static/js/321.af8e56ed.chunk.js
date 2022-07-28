@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonza_test=self.webpackChunkmonza_test||[]).push([[321],{2321:function(e,t,s){e.exports=s.p+"static/media/gle.3a2a612f562bcffbb60d.png"}}]);
