@@ -2,7 +2,7 @@
     "name": "monza-test",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://oleksiipyv.github.io/monza-test/",
+    "homepage": "https://oleksiipyv.github.io/monza-test",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.1.1",
         "@fortawesome/free-brands-svg-icons": "^6.1.1",
@@ -13,7 +13,6 @@
         "@testing-library/user-event": "^13.5.0",
         "babel-plugin-macros": "^3.1.0",
         "bootstrap": "^5.2.0",
-        "gh-pages": "^4.0.0",
         "node-sass": "^7.0.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
@@ -47,5 +46,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "gh-pages": "^4.0.0"
     }
 }

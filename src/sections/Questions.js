@@ -102,6 +102,9 @@ export default function Questions() {
     return (
         <div className="questions">
             <div className="container">
+                <h2 id="browseCars" className="section-header">
+                    popular questions
+                </h2>
                 <div className="questions__container">
                     {questions.map((x, index) => (
                         <Collapse
