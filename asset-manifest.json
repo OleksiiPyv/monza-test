@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/monza-test/static/css/main.e48376a2.css",
-    "main.js": "/monza-test/static/js/main.db50a607.js",
+    "main.css": "/monza-test/static/css/main.ac473f33.css",
+    "main.js": "/monza-test/static/js/main.e263075a.js",
     "static/js/338.a46729f4.chunk.js": "/monza-test/static/js/338.a46729f4.chunk.js",
     "static/js/321.af8e56ed.chunk.js": "/monza-test/static/js/321.af8e56ed.chunk.js",
     "static/js/142.a3701e47.chunk.js": "/monza-test/static/js/142.a3701e47.chunk.js",
@@ -52,11 +52,11 @@
     "static/media/poppins-v20-latin-700.eot": "/monza-test/static/media/poppins-v20-latin-700.f808204601ecdcaf5c4d.eot",
     "static/media/poppins-v20-latin-700.woff2": "/monza-test/static/media/poppins-v20-latin-700.d86662fe776dae29ea78.woff2",
     "index.html": "/monza-test/index.html",
-    "main.e48376a2.css.map": "/monza-test/static/css/main.e48376a2.css.map",
-    "main.db50a607.js.map": "/monza-test/static/js/main.db50a607.js.map"
+    "main.ac473f33.css.map": "/monza-test/static/css/main.ac473f33.css.map",
+    "main.e263075a.js.map": "/monza-test/static/js/main.e263075a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e48376a2.css",
-    "static/js/main.db50a607.js"
+    "static/css/main.ac473f33.css",
+    "static/js/main.e263075a.js"
   ]
 }
